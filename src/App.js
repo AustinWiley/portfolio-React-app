@@ -1,26 +1,39 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Nav from "./components/Nav";
+import Hero from "./components/Hero";
+import Card from "./components/Card";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import projects from "./projects.json";
 import './App.css';
 
 class App extends Component {
+
+  //sets state to projects json
+  state = {
+    projects
+  };
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <>
+      <Nav />
+      <div className="container">
+        <div className="section">
+          <div className="row columns"> 
+            {this.state.projects.map(character => (
+            <Card
+            imageClick={this.imageClick}
+            id={character.id}
+            key={character.id}
+            image={character.image}
+            />
+            ))}
+          </div>  
+        </div>
       </div>
+      <Footer />
+      </>
     );
   }
 }
