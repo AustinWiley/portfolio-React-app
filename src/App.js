@@ -20,7 +20,7 @@ class App extends Component {
       <Nav />
       <div className="container">
         <div className="section">
-          <div className="row columns"> 
+          <div className="row columns is-multiline"> 
             {this.state.projects.map(character => (
             <Card
             imageClick={this.imageClick}
