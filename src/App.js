@@ -21,12 +21,16 @@ class App extends Component {
       <div className="container">
         <div className="section">
           <div className="row columns is-multiline"> 
-            {this.state.projects.map(character => (
+            {this.state.projects.map(project => (
             <Card
-            imageClick={this.imageClick}
-            id={character.id}
-            key={character.id}
-            image={character.image}
+            // imageClick={this.imageClick}
+            id={project.id}
+            key={project.id}
+            title={project.title}
+            image={project.image}
+            description={project.description}
+            githubLink={project.githubLink}
+            deployedLink={project.deployedLink}
             />
             ))}
           </div>  
