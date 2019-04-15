@@ -18,8 +18,11 @@ class App extends Component {
     return (
       <>
       <Nav />
+      <Hero />
       <div className="container">
-        <div className="section">
+        <div className="section" id="portfolio">
+        <h1 className="has-text-centered portfolio-title">Checkout some of my favorite Projects</h1>
+        <br />
           <div className="row columns is-multiline"> 
             {this.state.projects.map(project => (
             <Card

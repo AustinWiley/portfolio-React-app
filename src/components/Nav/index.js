@@ -4,12 +4,13 @@ import React from "react";
 
 function Nav() {
     return(
-        <nav className="navbar">
+        <nav className="navbar is-fixed-top">
                 <div className="container">
                     <div className="navbar-brand">
-                        <a className="navbar-item" href="../">
+                    <h1 class="navbar-item title has-text-white">Austin Wiley</h1>
+                        {/* <a className="navbar-item" href="../">
                                 <img src="../images/bulma.png" alt="Logo" />
-                            </a>
+                            </a> */}
                         <span className="navbar-burger burger" data-target="navbarMenu">
                                 <span></span>
                         <span></span>
@@ -18,16 +19,16 @@ function Nav() {
                     </div>
                     <div id="navbarMenu" className="navbar-menu">
                         <div className="navbar-end">
-                            <a className="navbar-item is-active">
-                                    Home
+                            <a className="navbar-item" href="#about">
+                                    About
                                 </a>
-                            <a className="navbar-item">
-                                    Examples
+                            <a className="navbar-item" href="#portfolio">
+                                   Portfolio
                                 </a>
-                            <a className="navbar-item">
-                                    Features
+                            <a className="navbar-item" href="#footer">
+                                    Contact
                                 </a>
-                            <a className="navbar-item">
+                            {/* <a className="navbar-item">
                                     Team
                                 </a>
                             <a className="navbar-item">
@@ -35,8 +36,8 @@ function Nav() {
                                 </a>
                             <a className="navbar-item">
                                     Help
-                                </a>
-                            <div className="navbar-item has-dropdown is-hoverable">
+                                </a> */}
+                            {/* <div className="navbar-item has-dropdown is-hoverable">
                                 <a className="navbar-link">
                                         Account
                                     </a>
@@ -55,7 +56,7 @@ function Nav() {
                                         Logout
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
