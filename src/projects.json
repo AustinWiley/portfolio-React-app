@@ -9,11 +9,11 @@
   },
   {
     "id": 2,
-    "title": "IOT Temp controller",
+    "title": "IOT Controller",
     "image": "images/raspi.jpg",
-    "description": "Set up raspberry pi with a node server to controll a 450 gal hot water tank from phone. In use at Spangalang Brewery.",
-    "githubLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment",
-    "deployedLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment"
+    "description": "Node Express server running on a Pi Zero to Control temp of a 527 gallon hot water tank remotely. Actively used at Spangalang Brewery.",
+    "githubLink": "https://github.com/AustinWiley/IOT-Temp-Controller",
+    "deployedLink": "https://github.com/AustinWiley/IOT-Temp-Controller"
   },
     {
       "id": 3,
