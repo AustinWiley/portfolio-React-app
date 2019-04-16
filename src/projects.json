@@ -1,4 +1,20 @@
 [
+  {
+    "id": 1,
+    "title": "Docker Boto-3",
+    "image": "images/dockerPython.jpg",
+    "description": "Test and copy the contents from one AWS s3 bucket into another s3 bucker using a PYTHON app containerized with DOCKER.",
+    "githubLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment",
+    "deployedLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment"
+  },
+  {
+    "id": 2,
+    "title": "IOT Temp controller",
+    "image": "images/raspi.jpg",
+    "description": "Set up raspberry pi with a node server to controll a 450 gal hot water tank from phone. In use at Spangalang Brewery.",
+    "githubLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment",
+    "deployedLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment"
+  },
     {
       "id": 3,
       "title": "hyperlocal",
@@ -19,7 +35,7 @@
       "id": 5,
       "title": "BeerKan",
       "image": "images/beerkan.jpg",
-      "description": "Digital brew log built with Materialize Heroku Express Sequelize Node.js",
+      "description": "Digital brew log built with Materialize Heroku Express Sequelize Node.js.",
       "githubLink": "https://github.com/AustinWiley/brewIQ",
       "deployedLink": "https://cryptic-fjord-74772.herokuapp.com/"
     },
@@ -35,8 +51,8 @@
       "id": 7,
       "title": "React Clicky Game",
       "image": "images/clicky.jpg",
-      "description": "Memory card game built with REACT",
-      "githubLink": "https://github.com/AustinWiley/React-clicky-game",
+      "description": "Memory card game built with REACT.",
+      "githubLink": "https://github.com/AustinWiley/React-clicky-game.",
       "deployedLink": "https://react-clicky-adventuretime.herokuapp.com/"
     },
     {
@@ -51,7 +67,7 @@
       "id": 9,
       "title": "Liri Node app",
       "image": "images/liri-node.jpg",
-      "description": "LIRI is a command line NODE.js app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies",
+      "description": "LIRI is a command line NODE.js app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
       "githubLink": "https://github.com/AustinWiley/liri-node-app",
       "deployedLink": "https://github.com/AustinWiley/liri-node-app"
     },
@@ -59,7 +75,7 @@
       "id": 10,
       "title": "Camp With confidence",
       "image": "images/camp.jpg",
-      "description": "Uses API's to search for a campsite in any National park and get a weather forecast for that site",
+      "description": "Uses API's to search for a campsite in any National park and get a weather forecast for that site.",
       "githubLink": "https://github.com/AustinWiley/Team-7",
       "deployedLink": "https://dpd1208.github.io/Team-7/"
     },
@@ -75,7 +91,7 @@
       "id": 12,
       "title": "Gif Tastic App",
       "image": "images/guineapig.jpg",
-      "description": "Gify API, Javascript, JQuery, HTML, CSS, Bootstrap - Search and save your favorite gifs",
+      "description": "Gify API, Javascript, JQuery, HTML, CSS, Bootstrap - Search and save your favorite gifs.",
       "githubLink": "https://github.com/AustinWiley/gifTastic",
       "deployedLink": "https://austinwiley.github.io/gifTastic/"
     },
@@ -83,7 +99,7 @@
       "id": 13,
       "title": "node-word-guess",
       "image": "images/cli.jpg",
-      "description": "Node, Javascript, Inquirer.js - Node CLI word guess game using Javascript Constructors",
+      "description": "Node, Javascript, Inquirer.js - Node CLI word guess game using Javascript Constructors.",
       "githubLink": "https://github.com/AustinWiley/node-word-guess",
       "deployedLink": "https://github.com/AustinWiley/node-word-guess"
     },
@@ -91,7 +107,7 @@
       "id": 14,
       "title": "Bamazon-store",
       "image": "images/cashRegister.jpg",
-      "description": "NODE.js and MySQL inventory control for a fake store called 'Bamazon'",
+      "description": "NODE.js and MySQL inventory control for a fake store called 'Bamazon'.",
       "githubLink": "https://github.com/AustinWiley/bamazon-store",
       "deployedLink": "https://github.com/AustinWiley/bamazon-store"
     },
@@ -99,7 +115,7 @@
       "id": 15,
       "title": "Beer Trivia Game",
       "image": "images/beer2.jpg",
-      "description": "Javascript, HTML and CSS - Test your Beer knowledge with this multiple choice Beer Trivia",
+      "description": "Javascript, HTML and CSS - Test your Beer knowledge with this multiple choice Beer Trivia.",
       "githubLink": "https://github.com/AustinWiley/BeerTriviaGame",
       "deployedLink": "https://austinwiley.github.io/BeerTriviaGame/"
     },
@@ -115,7 +131,7 @@
       "id": 17,
       "title": "Magic Eight Ball",
       "image": "images/eightBall.jpg",
-      "description": "Javascript, HTML, CSS - Its an 8 ball, ask anyting",
+      "description": "Javascript, HTML, CSS - Its an 8 ball, ask anyting.",
       "githubLink": "https://github.com/AustinWiley/MagicEightBall",
       "deployedLink": "https://austinwiley.github.io/MagicEightBall/"
     }

@@ -1,4 +1,5 @@
 import React from "react";
+import Icons from "../Icons"
 // import "./style.css";
 
 
@@ -16,10 +17,11 @@ A lifelong learner who taught myself how to start and run a successful business 
 endless possibilities of web development. Thanks to my years of working in cross-functional
 teams and running my own business, I’m great at coming up with solutions, no matter what you
 throw at me.
-
                 </p>
             </div>
         </div>
+        <p id="portfolio">- Skills -</p>
+        <Icons />
     </section>
     );
 }

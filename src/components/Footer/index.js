@@ -8,9 +8,9 @@ function Footer() {
         <div className="container">
             <div className="content has-text-centered">
             <p className="contact"><strong>Contact me</strong></p>
-            <p>5974 S. Fairfield St<br/>
-            Littleton Co, 80120<br/>
-            303 905 7293</p>
+            <p>5974 S. Fairfield St</p>
+            <p>Littleton Co, 80120</p>
+            <p>303 905 7293</p>
                 <div className="soc">
                     <a href="https://github.com/AustinWiley"><i className="fa fa-github-alt fa-2x" aria-hidden="true"></i></a>
                     {/* <a href="#"><i className="fa fa-youtube fa-2x" aria-hidden="true"></i></a> */}

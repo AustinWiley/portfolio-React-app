@@ -24,7 +24,7 @@ function Card(props) {
                         {/* <p className="subtitle is-6">Lead Developer</p> */}
                     </div>
                 </div>
-                <div className="content">
+                <div className="description">
                         {props.description}
                     <div className="background-icon"><span className="icon-twitter"></span></div>
                 </div>

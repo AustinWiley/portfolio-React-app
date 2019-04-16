@@ -1,11 +1,14 @@
 body {
   background: #041221;
   }
+  .burger {
+    color: lemonchiffon;
+  }
   .card {overflow:hidden}
-  .card.large {
-  height: 600px;
+  .card {
+  /* height: 600px;
   -webkit-backface-visibility: hidden;
-  backface-visibility: initial;
+  backface-visibility: initial; */
   border-radius: 5px;
   }
   .media-content {
@@ -52,25 +55,35 @@ body {
   }
   .hero {
     margin-top: 60px;
-    background-color: #222831;
+    background-color: #041221 !important;
   }
   .is-rounded {
     border-radius: 50%;
 }
+.code-icons {
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  display: flex;   
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.devicon {
+  font-size: 35px;
+  margin: 10px;
+  color: #67ace6;
+}
 .portfolio-title {
-  font-size: 25px;
+  font-size: 35px;
   color: lemonchiffon;
 }
 .contact {
     font-size: 30px;
     color: lemonchiffon;
 }
-/* .content {
-  height: 100px;
-} */
-/* .clearfix {
-  overflow: auto;
-} */
+.card-content {
+  height: 250px;
+}
   @-webkit-keyframes rotating {
   from {
   -ms-transform: rotate(0deg);
@@ -115,7 +128,10 @@ body {
     color: lemonchiffon;
     }
   .navbar-item {
-   color: lemonchiffon; 
+   color: lemonchiffon;
+  }
+  .navbar-menu {
+    background-color: #222831; 
   }
   .footer{
   background-color: #222831;

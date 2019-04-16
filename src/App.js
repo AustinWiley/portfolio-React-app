@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import Nav from "./components/Nav";
+import Flow from "./components/Flow";
 import Hero from "./components/Hero";
 import Card from "./components/Card";
-import Contact from "./components/Contact";
+// import Contact from "./components/Icons";
 import Footer from "./components/Footer";
 import projects from "./projects.json";
 import './App.css';
@@ -18,10 +19,11 @@ class App extends Component {
     return (
       <>
       <Nav />
+      <Flow />
       <Hero />
       <div className="container">
-        <div className="section" id="portfolio">
-        <h1 className="has-text-centered portfolio-title">Checkout some of my favorite Projects</h1>
+        <div className="section">
+        <h1 className="has-text-centered portfolio-title"> - Portfolio -</h1>
         <br />
           <div className="row columns is-multiline"> 
             {this.state.projects.map(project => (
