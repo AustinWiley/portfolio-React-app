@@ -12,7 +12,7 @@ function Nav() {
                                 <img src="../images/bulma.png" alt="Logo" />
                             </a> */}
                         <span className="navbar-burger burger" data-target="navbarMenu">
-                                <span></span>
+                            <span></span>
                         <span></span>
                         <span></span>
                         </span>
@@ -36,8 +36,8 @@ function Nav() {
                                 </a>
                             <a className="navbar-item">
                                     Help
-                                </a> */}
-                            {/* <div className="navbar-item has-dropdown is-hoverable">
+                                </a>
+                            <div className="navbar-item has-dropdown is-hoverable">
                                 <a className="navbar-link">
                                         Account
                                     </a>

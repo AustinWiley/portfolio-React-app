@@ -61,6 +61,16 @@ body {
   font-size: 25px;
   color: lemonchiffon;
 }
+.contact {
+    font-size: 30px;
+    color: lemonchiffon;
+}
+/* .content {
+  height: 100px;
+} */
+/* .clearfix {
+  overflow: auto;
+} */
   @-webkit-keyframes rotating {
   from {
   -ms-transform: rotate(0deg);

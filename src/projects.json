@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 3,
       "title": "hyperlocal",
       "image": "images/hyperlocal.jpg",
       "description": "Built with REACT, Auth0 and BULMA. Platform for people to connect based on their neighborhood with user accounts and Authentication.",
@@ -8,7 +8,7 @@
       "deployedLink": "https://thawing-ravine-62761.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "React Book Search",
       "image": "images/books.jpg",
       "description": "REACT, Node, BULMA, Express, MongoDB, Google Bokks API - Users can search and save books to review or purchase later.",
@@ -16,7 +16,7 @@
       "deployedLink": "https://afternoon-river-37509.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "BeerKan",
       "image": "images/beerkan.jpg",
       "description": "Digital brew log built with Materialize Heroku Express Sequelize Node.js",
@@ -24,7 +24,7 @@
       "deployedLink": "https://cryptic-fjord-74772.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "Eat Da Burger",
       "image": "images/Burger-Sequelize.jpg",
       "description": "MYSQL, Handlebars.js, Heroku - Name a burger then eat it!",
@@ -32,7 +32,7 @@
       "deployedLink": "https://infinite-beyond-30054.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 7,
       "title": "React Clicky Game",
       "image": "images/clicky.jpg",
       "description": "Memory card game built with REACT",
@@ -40,7 +40,7 @@
       "deployedLink": "https://react-clicky-adventuretime.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 8,
       "title": "Friend-Finder",
       "image": "images/friend-finder.jpg",
       "description": "NODE.js, Express, Bootstrap - Friend matching app.",
@@ -48,7 +48,7 @@
       "deployedLink": "https://dry-thicket-41798.herokuapp.com/"
     },
     {
-      "id": 3,
+      "id": 9,
       "title": "Liri Node app",
       "image": "images/liri-node.jpg",
       "description": "LIRI is a command line NODE.js app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies",
@@ -56,7 +56,7 @@
       "deployedLink": "https://github.com/AustinWiley/liri-node-app"
     },
     {
-      "id": 3,
+      "id": 10,
       "title": "Camp With confidence",
       "image": "images/camp.jpg",
       "description": "Uses API's to search for a campsite in any National park and get a weather forecast for that site",
@@ -64,7 +64,7 @@
       "deployedLink": "https://dpd1208.github.io/Team-7/"
     },
     {
-      "id": 3,
+      "id": 11,
       "title": "Train-Scheduler",
       "image": "images/train.jpg",
       "description": "dthe quick brown fox jumped over the lazy dog.",
@@ -72,7 +72,7 @@
       "deployedLink": "https://austinwiley.github.io/Train-Scheduler/"
     },
     {
-      "id": 3,
+      "id": 12,
       "title": "Gif Tastic App",
       "image": "images/guineapig.jpg",
       "description": "Gify API, Javascript, JQuery, HTML, CSS, Bootstrap - Search and save your favorite gifs",
@@ -80,7 +80,7 @@
       "deployedLink": "https://austinwiley.github.io/gifTastic/"
     },
     {
-      "id": 3,
+      "id": 13,
       "title": "node-word-guess",
       "image": "images/cli.jpg",
       "description": "Node, Javascript, Inquirer.js - Node CLI word guess game using Javascript Constructors",
@@ -88,7 +88,7 @@
       "deployedLink": "https://github.com/AustinWiley/node-word-guess"
     },
     {
-      "id": 3,
+      "id": 14,
       "title": "Bamazon-store",
       "image": "images/cashRegister.jpg",
       "description": "NODE.js and MySQL inventory control for a fake store called 'Bamazon'",
@@ -96,7 +96,7 @@
       "deployedLink": "https://github.com/AustinWiley/bamazon-store"
     },
     {
-      "id": 3,
+      "id": 15,
       "title": "Beer Trivia Game",
       "image": "images/beer2.jpg",
       "description": "Javascript, HTML and CSS - Test your Beer knowledge with this multiple choice Beer Trivia",
@@ -104,7 +104,7 @@
       "deployedLink": "https://austinwiley.github.io/BeerTriviaGame/"
     },
     {
-      "id": 3,
+      "id": 16,
       "title": "Word Guess Game",
       "image": "images/geo.jpg",
       "description": "Javascripts, HTML and CSS - Word guess game with Adventure Time characters",
@@ -112,7 +112,7 @@
       "deployedLink": "https://austinwiley.github.io/Word-Guess-Game/"
     },
     {
-      "id": 3,
+      "id": 17,
       "title": "Magic Eight Ball",
       "image": "images/eightBall.jpg",
       "description": "Javascript, HTML, CSS - Its an 8 ball, ask anyting",
