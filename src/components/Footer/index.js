@@ -19,7 +19,7 @@ function Footer() {
                     <a href="https://www.linkedin.com/in/austin-wiley-86868416b/"><i className="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
                 </div>
                 <p>
-                    <i className="fa fa-file"></i><a href="images/Austin Resume.pdf">Austin Wiley Resume</a>.
+                    <i className="fa fa-file"></i><a href="images/Austin Wiley Resume.pdf">Austin Wiley Resume</a>.
                 </p>
             </div>
         </div>
