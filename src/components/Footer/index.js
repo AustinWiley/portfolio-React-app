@@ -8,7 +8,7 @@ function Footer() {
         <div className="container">
             <div className="content has-text-centered">
             <p className="contact"><strong>Contact me</strong></p>
-            <p><strong>wileybeer@gmail.com</strong></p>
+            <p><strong>austinwiley84@gmail.com</strong></p>
             <p>5974 S. Fairfield St</p>
             <p>Littleton Co, 80120</p>
             <p>303 905 7293</p>
