@@ -1,70 +1,63 @@
 [
   {
     "id": 1,
-    "title": "Docker Boto-3",
-    "image": "images/dockerPython.jpg",
-    "description": "Test and copy the contents from one AWS s3 bucket into another s3 bucker using a PYTHON app containerized with DOCKER.",
-    "githubLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment",
-    "deployedLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment"
+    "title": "Getting There App",
+    "image": "images/GTG2.jpg",
+    "description": "React Native (iOS, iPad & Android) mobile app for specialized transportation services in the Denver metro area serving persons with disabilities and the elderly.",
+    "githubLink": "",
+    "otherLink": "https://www.9news.com/article/life/senior-source/getting-there-guide-app/73-68e2ca51-f5f2-4282-aa37-9f6d78b6504e",
+    "deployedLink": "https://apps.apple.com/us/app/getting-there/id1459275026"
   },
   {
     "id": 2,
+    "title": "Artist Portfolio",
+    "image": "images/jRajewski.jpg",
+    "description": "Simple and elegantly designed portfolio built for the well know artist and sculpter, Jonathon Rajewski.  Built with vanilla JS, CSS & HTML in ReactJS.",
+    "githubLink": "https://github.com/AustinWiley/j-rajewski-website",
+    "deployedLink": "https://jonathanrajewski.xyz/Paintings"
+  },
+  {
+    "id": 3,
     "title": "IOT Controller",
     "image": "images/raspi.jpg",
-    "description": "Node Express server running on a Pi Zero to Control temp of a 527 gallon hot water tank remotely. Actively used at Spangalang Brewery.",
+    "description": "IOT temperature controler built with Node.js Express.js and ReactJS. Running on a Pi Zero to Control the temperature of a 527 gallon hot water tank remotely at Spangalang Brewery.",
     "githubLink": "https://github.com/AustinWiley/IOT-Temp-Controller",
     "deployedLink": "https://github.com/AustinWiley/IOT-Temp-Controller"
   },
     {
-      "id": 3,
+      "id": 4,
       "title": "hyperlocal",
       "image": "images/hyperlocal.jpg",
-      "description": "Built with REACT, Auth0 and BULMA. Platform for people to connect based on their neighborhood with user accounts and Authentication.",
+      "description": "Built with ReactJS, Auth0 and BULMA. Platform with user accounts and Authentication for people to connect with each other within their neighborhoods.",
       "githubLink": "https://github.com/AustinWiley/hyperlocal",
       "deployedLink": "https://thawing-ravine-62761.herokuapp.com/"
-    },
-    {
-      "id": 4,
-      "title": "React Book Search",
-      "image": "images/books.jpg",
-      "description": "REACT, Node, BULMA, Express, MongoDB, Google Bokks API - Users can search and save books to review or purchase later.",
-      "githubLink": "https://github.com/AustinWiley/react-google-book-search",
-      "deployedLink": "https://afternoon-river-37509.herokuapp.com/"
     },
     {
       "id": 5,
       "title": "BeerKan",
       "image": "images/beerkan.jpg",
-      "description": "Digital brew log built with Materialize Heroku Express Sequelize Node.js.",
+      "description": "Digital beer brewing log built with Materialize, Heroku, Express.js Sequelize, and Node.js.  Works like a Kan Ban board for brewing beer.",
       "githubLink": "https://github.com/AustinWiley/brewIQ",
       "deployedLink": "https://cryptic-fjord-74772.herokuapp.com/"
     },
     {
       "id": 6,
-      "title": "Eat Da Burger",
-      "image": "images/Burger-Sequelize.jpg",
-      "description": "MYSQL, Handlebars.js, Heroku - Name a burger then eat it!",
-      "githubLink": "https://github.com/AustinWiley/Burger_sequelize",
-      "deployedLink": "https://infinite-beyond-30054.herokuapp.com/"
+      "title": "Docker Boto-3",
+      "image": "images/dockerPython.jpg",
+      "description": "Test and copy the contents from one AWS s3 bucket into another s3 bucker using a PYTHON app containerized with DOCKER.",
+      "githubLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment",
+      "deployedLink": "https://github.com/AustinWiley/Docker-Boto3-Technical-Assignment"
     },
     {
       "id": 7,
-      "title": "React Clicky Game",
-      "image": "images/clicky.jpg",
-      "description": "Memory card game built with REACT.",
-      "githubLink": "https://github.com/AustinWiley/React-clicky-game.",
-      "deployedLink": "https://react-clicky-adventuretime.herokuapp.com/"
+      "title": "React Book Search",
+      "image": "images/books.jpg",
+      "description": "ReactJS, Node, BULMA, Express, MongoDB, Google Books API - Users can search and save books to review or purchase later.",
+      "githubLink": "https://github.com/AustinWiley/react-google-book-search",
+      "deployedLink": "https://afternoon-river-37509.herokuapp.com/"
     },
     {
       "id": 8,
-      "title": "Friend-Finder",
-      "image": "images/friend-finder.jpg",
-      "description": "NODE.js, Express, Bootstrap - Friend matching app.",
-      "githubLink": "https://github.com/AustinWiley/Friend-Finder",
-      "deployedLink": "https://dry-thicket-41798.herokuapp.com/"
-    },
-    {
-      "id": 9,
       "title": "Liri Node app",
       "image": "images/liri-node.jpg",
       "description": "LIRI is a command line NODE.js app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
@@ -72,7 +65,31 @@
       "deployedLink": "https://github.com/AustinWiley/liri-node-app"
     },
     {
+      "id": 9,
+      "title": "Eat Da Burger",
+      "image": "images/Burger-Sequelize.jpg",
+      "description": "MYSQL, Handlebars.js, Heroku - Name a burger then eat it!",
+      "githubLink": "https://github.com/AustinWiley/Burger_sequelize",
+      "deployedLink": "https://infinite-beyond-30054.herokuapp.com/"
+    },
+    {
       "id": 10,
+      "title": "React Clicky Game",
+      "image": "images/clicky.jpg",
+      "description": "Memory card game built with ReactJS.",
+      "githubLink": "https://github.com/AustinWiley/React-clicky-game",
+      "deployedLink": "https://react-clicky-adventuretime.herokuapp.com/"
+    },
+    {
+      "id": 11,
+      "title": "Friend-Finder",
+      "image": "images/friend-finder.jpg",
+      "description": "Node.js, Express, Bootstrap - Friend matching app.",
+      "githubLink": "https://github.com/AustinWiley/Friend-Finder",
+      "deployedLink": "https://dry-thicket-41798.herokuapp.com/"
+    },
+    {
+      "id": 12,
       "title": "Camp With confidence",
       "image": "images/camp.jpg",
       "description": "Uses API's to search for a campsite in any National park and get a weather forecast for that site.",
@@ -80,15 +97,15 @@
       "deployedLink": "https://dpd1208.github.io/Team-7/"
     },
     {
-      "id": 11,
+      "id": 13,
       "title": "Train-Scheduler",
       "image": "images/train.jpg",
-      "description": "dthe quick brown fox jumped over the lazy dog.",
+      "description": "Train scheduling interface build with ReactJS and HandlebarsJS.",
       "githubLink": "https://github.com/AustinWiley/Train-Scheduler",
       "deployedLink": "https://austinwiley.github.io/Train-Scheduler/"
     },
     {
-      "id": 12,
+      "id": 14,
       "title": "Gif Tastic App",
       "image": "images/guineapig.jpg",
       "description": "Gify API, Javascript, JQuery, HTML, CSS, Bootstrap - Search and save your favorite gifs.",
@@ -96,7 +113,7 @@
       "deployedLink": "https://austinwiley.github.io/gifTastic/"
     },
     {
-      "id": 13,
+      "id": 15,
       "title": "node-word-guess",
       "image": "images/cli.jpg",
       "description": "Node, Javascript, Inquirer.js - Node CLI word guess game using Javascript Constructors.",
@@ -104,7 +121,7 @@
       "deployedLink": "https://github.com/AustinWiley/node-word-guess"
     },
     {
-      "id": 14,
+      "id": 16,
       "title": "Bamazon-store",
       "image": "images/cashRegister.jpg",
       "description": "NODE.js and MySQL inventory control for a fake store called 'Bamazon'.",
@@ -112,7 +129,7 @@
       "deployedLink": "https://github.com/AustinWiley/bamazon-store"
     },
     {
-      "id": 15,
+      "id": 17,
       "title": "Beer Trivia Game",
       "image": "images/beer2.jpg",
       "description": "Javascript, HTML and CSS - Test your Beer knowledge with this multiple choice Beer Trivia.",
@@ -120,15 +137,15 @@
       "deployedLink": "https://austinwiley.github.io/BeerTriviaGame/"
     },
     {
-      "id": 16,
+      "id": 18,
       "title": "Word Guess Game",
       "image": "images/geo.jpg",
-      "description": "Javascripts, HTML and CSS - Word guess game with Adventure Time characters",
+      "description": "Javascripts, HTML and CSS - Word guess game with Adventure Time characters.",
       "githubLink": "https://github.com/AustinWiley/Word-Guess-Game",
       "deployedLink": "https://austinwiley.github.io/Word-Guess-Game/"
     },
     {
-      "id": 17,
+      "id": 19,
       "title": "Magic Eight Ball",
       "image": "images/eightBall.jpg",
       "description": "Javascript, HTML, CSS - Its an 8 ball, ask anyting.",

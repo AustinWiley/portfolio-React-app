@@ -3,11 +3,9 @@ import Nav from "./components/Nav";
 import Flow from "./components/Flow";
 import Hero from "./components/Hero";
 import Card from "./components/Card";
-// import Contact from "./components/Icons";
 import Footer from "./components/Footer";
 import projects from "./projects.json";
 import './App.css';
-
 class App extends Component {
 
   //sets state to projects json
@@ -28,13 +26,13 @@ class App extends Component {
           <div className="row columns is-multiline"> 
             {this.state.projects.map(project => (
             <Card
-            // imageClick={this.imageClick}
             id={project.id}
             key={project.id}
             title={project.title}
             image={project.image}
             description={project.description}
             githubLink={project.githubLink}
+            otherLink={project.otherLink}
             deployedLink={project.deployedLink}
             />
             ))}

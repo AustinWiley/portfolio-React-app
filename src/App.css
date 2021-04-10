@@ -1,23 +1,32 @@
 body {
   background: #041221;
-  }
-  .burger {
-    color: lemonchiffon;
-  }
-  .card {overflow:hidden}
-  .card {
-  /* height: 600px;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: initial; */
+}
+
+.burger {
+  color: lemonchiffon;
+}
+
+.card {
+  overflow: hidden
+}
+
+.card {
+  /* height: 600px; */
+  /* -webkit-backface-visibility: hidden; */
+  /* backface-visibility: initial; */
   border-radius: 5px;
-  }
-  .media-content {
+}
+
+.media-content {
+  height: 30px;
   overflow: hidden;
-  }
-  .title.no-padding {
+}
+
+.title.no-padding {
   margin-bottom: 0 !important;
-  }
-  #flow span {
+}
+
+#flow span {
   display: block;
   width: 200vw;
   height: 200vw;
@@ -26,16 +35,18 @@ body {
   left: -50vw;
   border-radius: 90vw;
   opacity: 0.6;
-  }
-  .flow-1 {
+}
+
+.flow-1 {
   background: #3281ff;
   -webkit-animation: rotating 20s linear infinite;
   -moz-animation: rotating 20s linear infinite;
   -ms-animation: rotating 20s linear infinite;
   -o-animation: rotating 20s linear infinite;
   animation: rotating 20s linear infinite;
-  }
-  .flow-2 {
+}
+
+.flow-2 {
   background: #f442ee;
   position: absolute;
   -webkit-animation: rotating 15s linear infinite;
@@ -43,8 +54,9 @@ body {
   -ms-animation: rotating 15s linear infinite;
   -o-animation: rotating 15s linear infinite;
   animation: rotating 15s linear infinite;
-  }
-  .flow-3 {
+}
+
+.flow-3 {
   background: #42eef4;
   position: absolute;
   -webkit-animation: rotating 7s linear infinite;
@@ -52,95 +64,128 @@ body {
   -ms-animation: rotating 7s linear infinite;
   -o-animation: rotating 7s linear infinite;
   animation: rotating 7s linear infinite;
-  }
-  .hero {
-    margin-top: 60px;
-    background-color: #041221 !important;
-  }
-  .is-rounded {
-    border-radius: 50%;
 }
+
+.hero {
+  margin-top: 60px;
+  background-color: #041221 !important;
+}
+
+.is-rounded {
+  border-radius: 50%;
+}
+
 .code-icons {
-  display: -webkit-flex; /* Safari */
-  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
-  display: flex;   
+  display: -webkit-flex;
+  /* Safari */
+  -webkit-flex-wrap: wrap;
+  /* Safari 6.1+ */
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
 
 }
+
 .devicon {
   font-size: 35px;
   margin: 10px;
   color: #67ace6;
 }
+
 .portfolio-title {
   font-size: 35px;
   color: lemonchiffon;
 }
+
 .contact {
-    font-size: 30px;
-    color: lemonchiffon;
+  font-size: 30px;
+  color: lemonchiffon;
 }
+
 .card-content {
-  height: 250px;
+  height: 220px;
 }
-  @-webkit-keyframes rotating {
+
+@-webkit-keyframes rotating {
   from {
-  -ms-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
+
   to {
-  -ms-transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -webkit-transform: rotate(360deg);
-  -o-transform: rotate(360deg);
-  transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
   }
-  }
-  @keyframes rotating {
+}
+
+@keyframes rotating {
   from {
-  -ms-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -webkit-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
-  transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
+
   to {
-  -ms-transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -webkit-transform: rotate(360deg);
-  -o-transform: rotate(360deg);
-  transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
   }
-  }
-  .rotating {
+}
+
+.rotating {
   -webkit-animation: rotating 2s linear infinite;
   -moz-animation: rotating 2s linear infinite;
   -ms-animation: rotating 2s linear infinite;
   -o-animation: rotating 2s linear infinite;
   animation: rotating 2s linear infinite;
-  }
-  .navbar{
-    background-color: #222831;
-    color: lemonchiffon;
-    }
-  .navbar-item {
-   color: lemonchiffon;
-  }
-  .navbar-menu {
-    background-color: #222831; 
-  }
-  .footer{
+}
+
+.navbar {
   background-color: #222831;
   color: lemonchiffon;
-  }
-  .footer p, strong
-  {color: lemonchiffon}
-  .footer a:hover
-  {color: crimson;}
-  .fa
-  {color: lemonchiffon;
-      margin: 10px}
+}
+
+.navbar-item {
+  color: lemonchiffon;
+}
+
+.navbar-menu {
+  background-color: #222831;
+}
+
+.footer {
+  background-color: #222831;
+  color: lemonchiffon;
+}
+
+.footer p,
+strong {
+  color: lemonchiffon
+}
+
+.footer a:hover {
+  color: crimson;
+}
+
+.fa {
+  color: lemonchiffon;
+  margin: 10px
+}
+
+a span {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+  top: -10px;
+}
