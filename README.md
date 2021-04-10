@@ -1,9 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### My portfolio website
+## Portfolio Website
+### My portfolio website build with ReactJS
 <br>
 Open http://austinwiley.dev to view it in the browser.
