@@ -6,4 +6,4 @@ In the project directory, you can run:
 
 ### My portfolio website
 <br>
-Open [austinwiley.dev](austinwiley.dev) to view it in the browser.
+Open [austinwiley.dev](http://austinwiley.dev) to view it in the browser.
