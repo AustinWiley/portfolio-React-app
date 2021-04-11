@@ -190,7 +190,7 @@ a span {
   top: -10px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1024px) {
   #flow {
       display: none !important;
   }
